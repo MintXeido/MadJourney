@@ -1,3 +1,3 @@
 # MadJourney
-<h6>A Minecraft Java managing/updater software for MadJourney SMP's Modpack</h6>
+<h6>A Minecraft Java Modpack for a Horror/Adventure survival multiplayer forge server.</h6>
 <hr>
